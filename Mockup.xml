@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rf-topology.xsl"?>
+<plan>
+    <trunk>
+        <cable attenuation="1">
+            <panel>
+                <port>
+                    <cable attenuation="1">
+                        <splitter attenuation="2">
+                            <cable attenuation="1">
+                                
+                            </cable>
+                            <cable attenuation="1">
+
+                            </cable>
+                            <cable attenuation="1">
+
+                            </cable>
+                            <cable attenuation="1">
+
+                            </cable>
+                            <cable attenuation="1">
+
+                            </cable>
+                            <cable attenuation="1">
+
+                            </cable>
+                        </splitter>
+                    </cable>
+                </port>
+                <port>
+                    <cable attenuation="1">
+                        <splitter>
+                            <cable attenuation="1">
+
+                            </cable>
+                            <cable attenuation="1">
+
+                            </cable>
+                            <cable attenuation="1">
+
+                            </cable>
+                            <cable attenuation="1">
+
+                            </cable>
+                            <cable attenuation="1">
+
+                            </cable>
+                            <cable attenuation="1">
+
+                            </cable>
+                        </splitter>
+                    </cable>
+                </port>
+                <port>
+                    <cable attenuation="1">
+                        <splitter>
+                            <cable attenuation="1">
+
+                            </cable>
+                            <cable attenuation="1">
+
+                            </cable>
+                            <cable attenuation="1">
+
+                            </cable>
+                            <cable attenuation="1">
+
+                            </cable>
+                            <cable attenuation="1">
+
+                            </cable>
+                            <cable attenuation="1">
+
+                            </cable>
+                        </splitter>
+                    </cable>
+                </port>
+                <port>
+                    <cable attenuation="1">
+                        <splitter>
+                            <cable attenuation="1">
+
+                            </cable>
+                            <cable attenuation="1">
+
+                            </cable>
+                            <cable attenuation="1">
+
+                            </cable>
+                            <cable attenuation="1">
+
+                            </cable>
+                            <cable attenuation="1">
+
+                            </cable>
+                            <cable attenuation="1">
+
+                            </cable>
+                        </splitter>
+                    </cable>
+                </port>
+                <port>
+                    <cable attenuation="1">
+                        <splitter>
+                            <cable attenuation="1">
+
+                            </cable>
+                            <cable attenuation="1">
+
+                            </cable>
+                            <cable attenuation="1">
+
+                            </cable>
+                            <cable attenuation="1">
+
+                            </cable>
+                            <cable attenuation="1">
+
+                            </cable>
+                            <cable attenuation="1">
+
+                            </cable>
+                        </splitter>
+                    </cable>
+                </port>
+            </panel>
+        </cable>
+    </trunk>
+</plan>
